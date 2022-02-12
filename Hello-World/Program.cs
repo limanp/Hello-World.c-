@@ -11,6 +11,14 @@ namespace Hello_World
             Console.WriteLine("version <0.00000000001>");
             int num = 19;
             Console.WriteLine("Мой возраст: " + num + " лет");
+            if (num < 21)
+            {
+                Console.WriteLine("Еще не дорос");
+            }
+            else
+            {
+                Console.WriteLine("Ля, ты взрослый");
+            }
 
         }
     }
