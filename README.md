@@ -1,2 +1,2 @@
-# Hello-World.c-
+# Hello-World
 First use of git and first c# program
